@@ -6,7 +6,7 @@ Este proyecto es un formulario de inicio de sesión simple construido con Tailwi
 
 ## Capturas de Pantalla
 
-![Captura de pantalla 1](/screenshots/screenshot1.png)
+![Captura de pantalla 1](./src/assets/Captura.png)
 
 ## Características
 
